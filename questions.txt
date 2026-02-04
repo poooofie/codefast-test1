@@ -1,0 +1,21 @@
+how to do conditions on jsx and javascript
+
+how to make functions
+- how to call a functions
+
+
+const doThis = () => {
+    do this
+};
+
+function doThat() {
+    do that
+}
+
+
+
+what is props
+
+review object destructuring on js
+
+nextjs pages are components -> understand the meaning
